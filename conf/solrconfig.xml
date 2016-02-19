@@ -847,7 +847,7 @@
        <!-- faceting defaults -->
        <str name="facet">on</str>
        <str name="facet.field">industryName_s</str>
-       <str name="facet.field">typeOfOffense_s</str>
+       <str name="facet.field">typeOfOffence_s</str>
        <str name="facet.field">year_i</str>
        <str name="facet.query">*</str>
        <str name="facet.mincount">1</str>
